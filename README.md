@@ -1,2 +1,2 @@
 # restful-api-spring
-course api using spring MVC, Boot, Data
+This is a demo Spring applications using Spring Boot, building a complete database backed REST API using Spring technologies.
